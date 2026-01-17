@@ -1,0 +1,206 @@
+{
+  "generated": "2026-01-16T19:02:45-08:00",
+  "machine": "MacBookAir.home",
+  "apps": [
+    {
+      "name": "Ableton Live 12 Suite.app",
+      "bundle_id": "com.ableton.live",
+      "source": "manual",
+      "download": "https://www.ableton.com/en/shop/live/",
+      "path": "/Applications/Ableton Live 12 Suite.app"
+    }
+,
+    {
+      "name": "Adobe Creative Cloud",
+      "bundle_id": "unknown",
+      "source": "manual",
+      "download": "https://www.adobe.com/creativecloud/desktop-app.html",
+      "path": "/Applications/Adobe Creative Cloud"
+    }
+,
+    {
+      "name": "Adobe Media Encoder 2025",
+      "bundle_id": "unknown",
+      "source": "manual",
+      "download": "https://www.adobe.com/products/media-encoder.html",
+      "path": "/Applications/Adobe Media Encoder 2025"
+    }
+,
+    {
+      "name": "Adobe Premiere Pro 2025",
+      "bundle_id": "unknown",
+      "source": "manual",
+      "download": "https://www.adobe.com/products/premiere.html",
+      "path": "/Applications/Adobe Premiere Pro 2025"
+    }
+,
+    {
+      "name": "Arcade.app",
+      "bundle_id": "com.Output.Arcade",
+      "source": "manual",
+      "download": "https://output.com/products/arcade",
+      "path": "/Applications/Arcade.app"
+    }
+,
+    {
+      "name": "Disk Drill.app",
+      "bundle_id": "com.cleverfiles.DiskDrill",
+      "source": "manual",
+      "download": "https://www.cleverfiles.com/disk-drill.html",
+      "path": "/Applications/Disk Drill.app"
+    }
+,
+    {
+      "name": "Docker.app",
+      "bundle_id": "com.docker.docker",
+      "source": "homebrew_cask",
+      "download": "brew install --cask docker",
+      "path": "/Applications/Docker.app"
+    }
+,
+    {
+      "name": "GPG Keychain.app",
+      "bundle_id": "org.gpgtools.gpgkeychain",
+      "source": "manual",
+      "download": "https://gpgtools.org/",
+      "path": "/Applications/GPG Keychain.app"
+    }
+,
+    {
+      "name": "iZotope",
+      "bundle_id": "unknown",
+      "source": "manual",
+      "download": "https://www.izotope.com/en/shop.html",
+      "path": "/Applications/iZotope"
+    }
+,
+    {
+      "name": "Jason's Work Apps",
+      "bundle_id": "unknown",
+      "source": "manual",
+      "download": "",
+      "path": "/Applications/Jason's Work Apps"
+    }
+,
+    {
+      "name": "kdenlive.app",
+      "bundle_id": "org.kde.Kdenlive",
+      "source": "manual",
+      "download": "https://kdenlive.org/en/download/",
+      "path": "/Applications/kdenlive.app"
+    }
+,
+    {
+      "name": "Malwarebytes.app",
+      "bundle_id": "com.malwarebytes.mbam.frontend.application",
+      "source": "manual",
+      "download": "https://www.malwarebytes.com/mac-download",
+      "path": "/Applications/Malwarebytes.app"
+    }
+,
+    {
+      "name": "Masons_content",
+      "bundle_id": "unknown",
+      "source": "manual",
+      "download": "",
+      "path": "/Applications/Masons_content"
+    }
+,
+    {
+      "name": "Output Creator.app",
+      "bundle_id": "com.output.athena",
+      "source": "manual",
+      "download": "https://output.com/",
+      "path": "/Applications/Output Creator.app"
+    }
+,
+    {
+      "name": "qbittorrent.app",
+      "bundle_id": "org.qbittorrent.qBittorrent",
+      "source": "manual",
+      "download": "https://www.qbittorrent.org/download",
+      "path": "/Applications/qbittorrent.app"
+    }
+,
+    {
+      "name": "Steam.app",
+      "bundle_id": "com.valvesoftware.steam",
+      "source": "manual",
+      "download": "https://store.steampowered.com/about/",
+      "path": "/Applications/Steam.app"
+    }
+,
+    {
+      "name": "Tor Browser.app",
+      "bundle_id": "org.torproject.torbrowser",
+      "source": "manual",
+      "download": "https://www.torproject.org/download/",
+      "path": "/Applications/Tor Browser.app"
+    }
+,
+    {
+      "name": "Trilian.app",
+      "bundle_id": "com.spectrasonics.trilianstandalone",
+      "source": "manual",
+      "download": "https://www.spectrasonics.net/products/trilian/",
+      "path": "/Applications/Trilian.app"
+    }
+,
+    {
+      "name": "VSCodium.app",
+      "bundle_id": "com.vscodium",
+      "source": "homebrew_cask",
+      "download": "brew install --cask vscodium",
+      "path": "/Applications/VSCodium.app"
+    }
+,
+    {
+      "name": "Wine Stable.app",
+      "bundle_id": "org.winehq.wine-stable.wine",
+      "source": "homebrew_cask",
+      "download": "brew install --cask wine-stable",
+      "path": "/Applications/Wine Stable.app"
+    }
+,
+    {
+      "name": "Xcode.app",
+      "bundle_id": "com.apple.dt.Xcode",
+      "source": "manual",
+      "download": "mas install 497799835",
+      "path": "/Applications/Xcode.app"
+    }
+,
+    {
+      "name": "zoom.us.app",
+      "bundle_id": "us.zoom.xos",
+      "source": "manual",
+      "download": "https://zoom.us/download",
+      "path": "/Applications/zoom.us.app"
+    }
+,
+    {
+      "name": "Chrome Apps.localized",
+      "bundle_id": "unknown",
+      "source": "user_applications",
+      "download": "",
+      "path": "/Users/tonyakihlstadius/Applications/Chrome Apps.localized"
+    }
+,
+    {
+      "name": "Liftoff.app",
+      "bundle_id": "unknown",
+      "source": "user_applications",
+      "download": "https://sindresorhus.com/liftoff",
+      "path": "/Users/tonyakihlstadius/Applications/Liftoff.app"
+    }
+,
+    {
+      "name": "Wineskin",
+      "bundle_id": "unknown",
+      "source": "user_applications",
+      "download": "https://github.com/Gcenx/WineskinServer",
+      "path": "/Users/tonyakihlstadius/Applications/Wineskin"
+    }
+
+  ]
+}

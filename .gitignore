@@ -1,0 +1,13 @@
+# Backup folders with sensitive data
+xcode_signing_backup_*/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
